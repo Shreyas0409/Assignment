@@ -1,0 +1,68 @@
+{
+    "timestamp": "2026-09-03T01:54:51.269943",
+    "filename": "115.jpg",
+    "media_type": "image",
+    "selected_class": "Gloves",
+    "detections": [
+        {
+            "class_id": 1,
+            "label": "NO-Gloves",
+            "confidence": 0.7684,
+            "bbox": [
+                354,
+                53,
+                415,
+                110
+            ],
+            "status": "not_wearing"
+        },
+        {
+            "class_id": 0,
+            "label": "Gloves",
+            "confidence": 0.7375,
+            "bbox": [
+                558,
+                309,
+                609,
+                421
+            ],
+            "status": "wearing"
+        },
+        {
+            "class_id": 0,
+            "label": "Gloves",
+            "confidence": 0.7178,
+            "bbox": [
+                396,
+                312,
+                464,
+                423
+            ],
+            "status": "wearing"
+        },
+        {
+            "class_id": 0,
+            "label": "Gloves",
+            "confidence": 0.694,
+            "bbox": [
+                0,
+                223,
+                49,
+                317
+            ],
+            "status": "wearing"
+        },
+        {
+            "class_id": 1,
+            "label": "NO-Gloves",
+            "confidence": 0.5017,
+            "bbox": [
+                183,
+                0,
+                215,
+                66
+            ],
+            "status": "not_wearing"
+        }
+    ]
+}

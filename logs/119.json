@@ -1,0 +1,32 @@
+{
+    "timestamp": "2026-09-03T02:18:55.287419",
+    "filename": "119.jpg",
+    "media_type": "image",
+    "selected_class": "Gloves",
+    "detections": [
+        {
+            "class_id": 0,
+            "label": "Gloves",
+            "confidence": 0.852,
+            "bbox": [
+                118,
+                295,
+                182,
+                377
+            ],
+            "status": "wearing"
+        },
+        {
+            "class_id": 1,
+            "label": "NO-Gloves",
+            "confidence": 0.7137,
+            "bbox": [
+                2,
+                425,
+                75,
+                531
+            ],
+            "status": "not_wearing"
+        }
+    ]
+}
