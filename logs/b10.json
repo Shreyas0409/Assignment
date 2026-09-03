@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-09-03T15:56:22",
+  "filename": "b10.jpg",
+  "media_type": "image",
+  "selected_class": "Gloves",
+  "detections": [
+    {"label":"NO-Gloves","confidence":0.5185,"bbox":[279,335,359,443],"status":"not_wearing"}
+  ]
+}

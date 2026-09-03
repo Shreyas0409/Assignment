@@ -1,0 +1,9 @@
+model: models/glove_detector.onnx
+classes: models/classes.txt
+input: input
+output: output
+logs: logs
+confidence_threshold: 0.25
+nms_threshold: 0.45
+imgsz: 640
+frame_skip: 1
